@@ -12,5 +12,7 @@ setup(
         "polars",
         "rich",
         "lightning",
+        "requests",
+        "tqdm",
     ],
 )
